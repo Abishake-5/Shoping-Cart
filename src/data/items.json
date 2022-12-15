@@ -23,4 +23,19 @@
     "price": 14000,
     "imgUrl": "/imgs/car.jpg"
   }
+  ,
+  {
+    "id": 5,
+    "name": "iphone 14",
+    "price": 799,
+    "imgUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Razer Keyboard",
+    "price": 99,
+    "imgUrl": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/09/10/razer-blackwidow-keyboard-review_feature.jpg"
+  }
+  
 ]
