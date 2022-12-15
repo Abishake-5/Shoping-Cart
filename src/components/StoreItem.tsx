@@ -36,7 +36,7 @@ return (
                         style={{gap: ".5rem"}}>
                             <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
                             <div>
-                                <span className="fs-3">{quantity}</span>in cart
+                                <span className="fs-3">{quantity} in cart</span>
                             </div>
                             <Button onClick={() => increaseCartQuantity(id)} >+</Button>
 
